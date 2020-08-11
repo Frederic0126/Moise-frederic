@@ -1,0 +1,71 @@
+body{
+    background-color: #32ff7e;
+}
+.form{
+    text-align: center;
+}
+.menu{
+    float: right;
+    word-spacing: 100px;
+    margin-top: -50px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.index:hover{
+    background-color: rgb(41, 41, 241);
+    color: white;
+}
+.apropos:hover{
+    background-color: rgb(41, 41, 241);
+    color: white;
+}
+.activites:hover{
+    background-color: rgb(41, 41, 241);
+    color: white;
+}
+.contact:hover{
+    background-color: rgb(41, 41, 241);
+    color: white;
+}
+h1{
+    margin-top: 90px;
+    color: white;
+}
+label{
+    color: blue;
+    display: block;
+    font-size: 30px;
+}
+input{
+    font-size: 30px;
+}
+select{
+    font-size: 40px;
+}
+.contact1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    font-size: 70px;
+}
+a:active{
+    color: brown;
+}
+.footer{
+    text-align: center;
+    margin-left: 350px;
+}
+footer{
+    background-color: white; width: 540px;
+    color: black;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    color: blue;
+}
+h4{
+    color: white;
+}
+

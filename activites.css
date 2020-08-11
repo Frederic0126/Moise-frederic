@@ -1,0 +1,72 @@
+body{
+    background-color: #32ff7e;
+}
+.propos{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    color: blue;
+}
+p{
+    text-align: center;
+    color: rgb(41, 41, 241);
+    padding: 20px;
+    font-size:25px;
+    cursor: pointer;
+}
+.type:hover{
+    color: rgb(145, 145, 182);
+    cursor: pointer;
+}
+.menu{
+    float: right;
+    word-spacing: 100px;
+    margin-top: -60px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.footer{
+    text-align: center;
+    margin-left: 350px;
+}
+footer{
+    background-color: white; width: 540px;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+h5{
+    text-align: center;
+    color: white;
+
+}
+.tarif{
+    text-align: center;
+    color: white;
+}
+.index:hover{
+    background-color: rgb(41, 41, 241);
+    color: white;
+}
+.apropos:hover{
+    background-color: rgb(41, 41, 241);
+    color: white;
+}
+.activites:hover{
+    background-color: rgb(41, 41, 241);
+    color: white;
+}
+.contact:hover{
+    background-color: rgb(41, 41, 241);
+    color: white;
+}
